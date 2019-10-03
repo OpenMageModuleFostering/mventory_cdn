@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/MVentory_CDN",
+    "name": "OpenMageModuleFostering\/MVentory_CDN",
     "type": "magento-module",
     "license": "Open-Software-License-version-3.0",
     "homepage": "",
     "description": "Host product images on AWS S3 with automated uploading of new images. Compatible with AWS CloudFront.",
     "authors": [
-    {
-        "name": "Anatoly A. Kazantsev",
-        "email": "anatoly@mventory.com"
-    }
-],
+        {
+            "name": "Anatoly A. Kazantsev",
+            "email": "anatoly@mventory.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
