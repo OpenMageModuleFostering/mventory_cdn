@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/MVentory_CDN",
+    "name": "openmage-module-fostering\/mventory_cdn",
     "type": "magento-module",
-    "license": "Open-Software-License-version-3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Host product images on AWS S3 with automated uploading of new images. Compatible with AWS CloudFront.",
     "authors": [
